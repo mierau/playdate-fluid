@@ -1,0 +1,4 @@
+name=Fluid
+author=Goodmake Co.
+description=Basic fluid simulation demo.
+bundleID=co.goodmake.fluid
