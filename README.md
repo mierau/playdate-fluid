@@ -1,6 +1,6 @@
 # Fluid for Playdate
 
-This library is written in Lua using the Playdate SDK. It provides a way to create, draw, animate, and interact with fluid. The library is a minimal simulation to keep it speedy on device, so it is constrained mostly to wave simulation. However, as this is open source, please feel freet to add more functionality if you can keep it snappy.
+This library is written in Lua using the Playdate SDK. It provides a way to create, draw, animate, and interact with fluid. The library is a minimal simulation to keep it speedy on device, so it is constrained mostly to wave simulation. However, as this is open source, please feel free to add more functionality if you can keep it snappy.
 
 ![fluid](https://github.com/mierau/playdate-fluid/assets/55453/0b7ed325-1990-4415-99f5-55e04fe1e363)
 
